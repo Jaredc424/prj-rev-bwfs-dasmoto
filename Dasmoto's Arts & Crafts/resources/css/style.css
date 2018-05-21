@@ -1,0 +1,64 @@
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+  background-color: lightcoral;
+  background-color: skyblue;
+
+  brushes {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+  }
+
+  frames {
+ font-family: Helvetica;
+ font-size: 32px;
+ font-weight: bold;
+ color: white;
+ background-color: lightcoral;
+ }
+
+ paint{
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: skyblue;
+}
+
+p1 {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+.container {
+  position: relative;
+  }
+
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+}
+
+.img "dans" {
+
+}
